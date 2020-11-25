@@ -121,4 +121,10 @@
   <data name="Cuboid_simple.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Cuboid_simple.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Sphere" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sphere.pic;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cone.pic;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

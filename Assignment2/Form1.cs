@@ -84,5 +84,21 @@ namespace Assignment2
         {
 
         }
+
+        private void Button2_Click_1(object sender, EventArgs e)
+        {
+            double radius = double.Parse(textBox4.Text);
+            double sarea = 4.0 * Math.PI * radius * radius;
+            double volume = 4.0 / 3.0 * Math.PI * radius * radius * radius;
+
+            label3.Text = "volume =" + volume;
+            label4.Text = "sarea =" + sarea;
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            double radius = double.Parse(textBox5.Text);
+            double height = double.Parse(textBox6.Text)
+        }
     }
 }

@@ -63,9 +63,29 @@ namespace Assignment2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cone {
+            get {
+                object obj = ResourceManager.GetObject("cone", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Cuboid_simple_svg {
             get {
                 object obj = ResourceManager.GetObject("Cuboid_simple.svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sphere {
+            get {
+                object obj = ResourceManager.GetObject("Sphere", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

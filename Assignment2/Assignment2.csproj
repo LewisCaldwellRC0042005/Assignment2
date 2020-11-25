@@ -76,6 +76,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\cone.pic" />
+    <None Include="Resources\Sphere.pic" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
